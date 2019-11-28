@@ -1,4 +1,4 @@
-[English](https://github.com/Kinutafontfactory/Yuji/edit/master/README.md)
+[English](https://github.com/Kinutafontfactory/Yuji/blob/master/README-JP.md)
 
 # 佑字（ユウジ）
 
