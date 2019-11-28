@@ -1,4 +1,4 @@
-[English](https://github.com/Kinutafontfactory/Yuji/README.md)
+[English](https://github.com/Kinutafontfactory/Yuji/edit/master/README.md)
 
 # 佑字（ユウジ）
 
@@ -38,7 +38,7 @@ Last updated 2019-06-11
 
 すべてまたは個々のビルド済みフォントファイルをダウンロードできます：
 
-* [最新リリース](https://github.com/Kinutafontfactory/Yuji/release)
+* [最新リリース](https://github.com/Kinutafontfactory/Yuji/releases)
 
 ## 佑字シリーズとは
 
