@@ -35,7 +35,7 @@ Last updated 2019-06-11
 
 ## Download the fonts (OTF)
 
-* [Latest release](https://github.com/Kinutafontfactory/Yuji/release)
+* [Latest release](https://github.com/Kinutafontfactory/Yuji/releases)
 
 ### Yuji “Shuku” (佑字【肅】)
 
