@@ -1,4 +1,4 @@
-[日本語](https://github.com/Kinutafontfactory/Yuji/README-JP.md)
+[日本語](https://github.com/Kinutafontfactory/Yuji/blob/master/README-JP.md)
 
 # Yuji (佑字)
 
