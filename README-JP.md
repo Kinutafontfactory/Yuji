@@ -141,7 +141,7 @@ OpenType/CFF
 
 ## ご意見・ご提案など
 
-ご意見・ご提案等がございましたら、XXXXのプロジェクト管理者の [kiryumi](mailto:kinutaff@moji-sekkei.jp?subject=[GitHub]%20Yuji) までお送りください。検討させていただきます。
+ご意見・ご提案等がございましたら、砧書体制作所 佑字 プロジェクト管理者の [kiryumi](mailto:kinutaff@moji-sekkei.jp?subject=[GitHub]%20Yuji) までお送りください。検討させていただきます。
 
 ## さらに詳しい情報
 
