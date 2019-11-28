@@ -112,4 +112,4 @@ Please refer to `COMMANDO.txt` for details of the build command.
 
 ## Getting Involved
 
-Send suggestions for changes to the Yuji project maintainer, [kiryumi](kinutaff@moji-sekkei.jp?subject=[GitHub]%20Yuji), for consideration.
+Send suggestions for changes to the Yuji project maintainer, [kiryumi](mailto:kinutaff@moji-sekkei.jp?subject=[GitHub]%20Yuji), for consideration.
