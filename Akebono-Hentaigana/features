@@ -1,0 +1,56 @@
+table head {
+  FontRevision 3.000;
+} head;
+
+table name {
+  nameid 0  "Copyright 2010 The Yuji Project Authors (https://github.com/Kinutafontfactory/Yuji)";
+  nameid 0 1 "Copyright 2010 The Yuji Project Authors (https://github.com/Kinutafontfactory/Yuji)";
+  nameid 0 1 1 11 "Copyright 2010 The Yuji Project Authors (https://github.com/Kinutafontfactory/Yuji)";
+  nameid 8  "Kinuta Font Factory";
+  nameid 8 1 "Kinuta Font Factory";
+  nameid 8 1 1 11 "\8b\6d\8f\91\91\cc\90\a7\8d\ec\8f\8a";
+  nameid 8 3 1 1041 "\7827\66f8\4f53\5236\4f5c\6240";
+  nameid 9  "Kataoka Yuji";
+  nameid 9 1 "Kataoka Yuji";
+  nameid 9 1 1 11 "\95\d0\89\aa\97\43\94\56";
+  nameid 9 3 1 1041 "\7247\5ca1\4f51\4e4b";
+  nameid 11  "http://www.moji-sekkei.jp/";
+  nameid 11 1 "http://www.moji-sekkei.jp/";
+  nameid 13 "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+  nameid 14  "http://scripts.sil.org/OFL";
+  nameid 20 1 1 65535 "YujiAkebonoHenKn-R-83pv-RKSJ-H";
+} name;
+
+table BASE {
+  HorizAxis.BaseTagList                 icfb  icft  ideo  romn;
+  HorizAxis.BaseScriptList  DFLT  ideo   25  735   -120  0,
+                            hani  ideo   25  735   -120  0,
+                            kana  ideo   25  735   -120  0,
+                            latn  romn   25  735   -120  0,
+                            cyrl  romn   25  735   -120  0,
+                            grek  romn   25  735   -120  0;
+
+  VertAxis.BaseTagList                  icfb  icft  ideo  romn;
+  VertAxis.BaseScriptList   DFLT  ideo  145    855   0     120,
+                            hani  ideo  145    855   0     120,
+                            kana  ideo  145    855   0     120,
+                            latn  romn  145    855   0     120,
+                            cyrl  romn  145    855   0     120,
+                            grek  romn  145    855   0     120;
+} BASE;
+
+table OS/2 {
+  TypoAscender 880;
+  TypoDescender -120;
+  XHeight 545;
+  CapHeight 761;
+  WeightClass 400;
+  WidthClass 5;
+  Panose 2 11 4 0 0 0 0 0 0 0;
+  UnicodeRange 0 1 48 49 50 59 65;
+  CodePageRange 1252 932;
+  FSType 0;
+  Vendor "KDW ";
+} OS/2;
+
+include(../Resource/GSUB/aj13-gsub.fea);
