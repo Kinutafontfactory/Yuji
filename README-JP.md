@@ -1,3 +1,5 @@
+![01Yuji_title](https://user-images.githubusercontent.com/57783612/78629155-2dcb0800-78d1-11ea-8f96-867eaab4d39f.png)
+
 [English](https://github.com/Kinutafontfactory/Yuji/blob/master/README.md)
 
 # 佑字（ユウジ）
