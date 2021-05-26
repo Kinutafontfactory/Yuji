@@ -10,40 +10,16 @@
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 
-### License for build files
 
-Build files under `./Resource/*` ( [cmap-resources](https://github.com/adobe-type-tools/cmap-resources) and [Adobe-Japan1](https://github.com/adobe-type-tools/Adobe-Japan1) ) is available under the BSD 3-Clause "New" or "Revised" License.
+## Download the fonts (TTF)
 
-### License of cmap-resources and Adobe-Japan1 that is included in this repository
-
-```
-© 1992–2019 Adobe Inc.
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this documentation file to use, copy, publish, distribute, sublicense, and/or sell copies of the documentation, and to permit others to do the same, provided that:
-
-No modification, editing or other alteration of this document is allowed; and
-
-The above copyright notice and this permission notice shall be included in all copies of the documentation.
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this documentation file, to create their own derivative works from the content of this document to use, copy, publish, distribute, sublicense, and/or sell the derivative works, and to permit others to do the same, provided that the derived work is not represented as being a copy or version of this document.
-
-Adobe shall not be liable to any party for any loss of revenue or profit or for indirect, incidental, special, consequential, or other similar damages, whether based on tort (including without limitation negligence or strict liability), contract or other legal or equitable grounds even if Adobe has been advised or had reason to know of the possibility of such damages. The Adobe materials are provided on an “AS IS” basis. Adobe specifically disclaims all express, statutory, or implied warranties relating to the Adobe materials, including but not limited to those concerning merchantability or fitness for a particular purpose or non-infringement of any third party rights regarding the Adobe materials.
-
-Adobe holds no patents on the subject matter of this specification.
-
-Last updated 2019-06-11
-```
-
-
-## Download the fonts (OTF)
-
-* [Latest release](https://github.com/Kinutafontfactory/Yuji/releases)
+* [Latest release](https://github.com/Kinutafontfactory/Yuji/fonts/ttf)
 
 ### Yuji “Shuku” (佑字【肅】)
 
 #### Font Format
 
-OpenType/CFF
+OpenType/TTF
 
 #### Character Coverage
 
@@ -58,7 +34,7 @@ OpenType/CFF
 
 #### Font Format
 
-OpenType/CFF
+OpenType/TTF
 
 #### Character Coverage
 
@@ -70,7 +46,7 @@ OpenType/CFF
 
 #### Font Format
 
-OpenType/CFF
+OpenType/TTF
 
 #### Character Coverage
 
@@ -82,7 +58,7 @@ OpenType/CFF
 
 #### Font Format
 
-OpenType/CFF
+OpenType/TTF
 
 #### Character Coverage
 
@@ -94,7 +70,7 @@ OpenType/CFF
 
 #### Font Format
 
-OpenType/CFF
+OpenType/TTF
 
 #### Character Coverage
 
@@ -106,11 +82,11 @@ OpenType/CFF
 
 ### Requirements
 
-To build the binary font files from source, you need to have installed the [Adobe Font Development Kit for OpenType](http://www.adobe.com/devnet/opentype/afdko.html) (AFDKO).
+To build the binary font files from source, you need to have the `fontTools`, `glyphsLib`, `ufo2ft`, and `ufoLib2` libraries.
 
 ### How to build the fonts
 
-Please refer to `COMMANDO.txt` for details of the build command.
+Please refer to `build.py` for details of the build process.
 
 ## Getting Involved
 
