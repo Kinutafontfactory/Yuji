@@ -28,7 +28,7 @@ value = "Japanese;片岡佑之";
 },
 {
 name = vendorID;
-value = UFDN;
+value = KDW;
 },
 {
 name = license;
@@ -52,6 +52,10 @@ featurePrefixes = (
 automatic = 1;
 code = "languagesystem DFLT dflt;\012";
 name = Languagesystems;
+},
+{
+code = "table BASE {\012  HorizAxis.BaseTagList                 icfb  icft  ideo  romn;\012  HorizAxis.BaseScriptList  DFLT  ideo   25  735   -120  0,\012                            hani  ideo   25  735   -120  0,\012                            kana  ideo   25  735   -120  0,\012                            latn  romn   25  735   -120  0,\012                            cyrl  romn   25  735   -120  0,\012                            grek  romn   25  735   -120  0;\012\012  VertAxis.BaseTagList                  icfb  icft  ideo  romn;\012  VertAxis.BaseScriptList   DFLT  ideo  145    855   0     120,\012                            hani  ideo  145    855   0     120,\012                            kana  ideo  145    855   0     120,\012                            latn  romn  145    855   0     120,\012                            cyrl  romn  145    855   0     120,\012                            grek  romn  145    855   0     120;\012} BASE;";
+name = BASE;
 }
 );
 features = (
