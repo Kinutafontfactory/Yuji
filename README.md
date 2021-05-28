@@ -8,7 +8,7 @@
 
 ## License
 
-This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This Fonts are licensed under the [SIL Open Font License, Version 1.1.](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL)
 
 
 ## Download the fonts (TTF)
