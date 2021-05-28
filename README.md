@@ -30,7 +30,7 @@ OpenType/TTF
  - Default Glyph Style
    - JIS2004
 
-### Yuji “Boku” (佑字【舞】)
+### Yuji “Mai” (佑字【舞】)
 
 #### Font Format
 
@@ -39,7 +39,7 @@ OpenType/TTF
 #### Character Coverage
 
  - Supported character types
-   - Hiragana, Katakana, ｈalf-width Hiragana, ｈalf-width Katakana, long sound symbol
+   - Hiragana, Katakana, half-width Hiragana, half-width Katakana, long sound symbol
    - Some symbols, including punctuation marks, exclamation marks, question marks, and parentheses, are identical to the “Yuji Shuku”
 
 ### Yuji “Boku” (佑字【朴】)
