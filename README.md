@@ -32,6 +32,8 @@ It has tradition and dignity, but is also approachable. This design can be widel
 
 ### Yuji “Mai” (佑字【舞】)
 
+It expresses a free, unrestrained, emotional beauty. The Latin alphabets were written to match the kana strokes.
+
 #### Character Coverage
 
  - Same character set as “Syuku”
@@ -39,12 +41,17 @@ It has tradition and dignity, but is also approachable. This design can be widel
 
 ### Yuji “Boku” (佑字【朴】)
 
+It is a new and joyful design. It has both simplicity and warmth.
+
 #### Character Coverage
 
  - Same character set as “Syuku”
    - Kanji and some symbols are identical to the “Yuji Shuku”.
 
 ### Yuji “Akari” (佑字【灯】)
+### Yuji “Akebono” (佑字【曙】)
+
+The current Hiragana was prescribed in 1900. The rest of characters, which hadn’t been elected as Hiragana, are called Hentai kana. There are several types of Hentai kana, and Akari and Akebono are two of them. Katakana is not included in Hentai kana. Latin alphabets are designed only in capital letters. The lower-case letters are in small caps.
 
 #### Character Coverage
 
@@ -52,15 +59,6 @@ It has tradition and dignity, but is also approachable. This design can be widel
    - From “あ `U+3042` ” to “ん `U+3093` ” with out Yōon and Sokuon.
    - The Typeface of Hentaigana is recorded in the character code of Hiragana.
  - [GF Latin Core](https://github.com/googlefonts/gftools/tree/main/Lib/gftools/encodings/GF%20Glyph%20Sets#gf-latin-core) 
-
-### Yuji “Akebono” (佑字【曙】)
-
-#### Character Coverage
-
- - Supported character types
-   - From “あ `U+3042` ” to “ん `U+3093` ” with out Yōon and Sokuon.
-   - The Typeface of Hentaigana is recorded in the character code of Hiragana.
- - [GF Latin Core](https://github.com/googlefonts/gftools/tree/main/Lib/gftools/encodings/GF%20Glyph%20Sets#gf-latin-core)
 
 ## Building the fonts
 
