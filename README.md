@@ -34,17 +34,15 @@ It has tradition and dignity, but is also approachable. This design can be widel
 
 #### Character Coverage
 
- - Supported character types
-   - Hiragana, Katakana, half-width Hiragana, half-width Katakana, long sound symbol
-   - Some symbols, including punctuation marks, exclamation marks, question marks, and parentheses, are identical to the “Yuji Shuku”
+ - Same character set as “Syuku”
+   - Kanji and some symbols are identical to the “Yuji Shuku”.
 
 ### Yuji “Boku” (佑字【朴】)
 
 #### Character Coverage
 
- - Supported character types
-   - Hiragana, Katakana, ｈalf-width Hiragana, ｈalf-width Katakana, long sound symbol
-   - Some symbols, including punctuation marks, exclamation marks, question marks, and parentheses, are identical to the “Yuji Shuku”
+ - Same character set as “Syuku”
+   - Kanji and some symbols are identical to the “Yuji Shuku”.
 
 ### Yuji “Akari” (佑字【灯】)
 
@@ -53,6 +51,7 @@ It has tradition and dignity, but is also approachable. This design can be widel
  - Supported character types
    - From “あ `U+3042` ” to “ん `U+3093` ” with out Yōon and Sokuon.
    - The Typeface of Hentaigana is recorded in the character code of Hiragana.
+ - [GF Latin Core](https://github.com/googlefonts/gftools/tree/main/Lib/gftools/encodings/GF%20Glyph%20Sets#gf-latin-core) 
 
 ### Yuji “Akebono” (佑字【曙】)
 
@@ -61,6 +60,7 @@ It has tradition and dignity, but is also approachable. This design can be widel
  - Supported character types
    - From “あ `U+3042` ” to “ん `U+3093` ” with out Yōon and Sokuon.
    - The Typeface of Hentaigana is recorded in the character code of Hiragana.
+ - [GF Latin Core](https://github.com/googlefonts/gftools/tree/main/Lib/gftools/encodings/GF%20Glyph%20Sets#gf-latin-core)
 
 ## Building the fonts
 
