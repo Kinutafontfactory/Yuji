@@ -5,6 +5,7 @@
 # Yuji (佑字)
 
 “Yuji” is a series of fonts in which the original characters written by the calligrapher Yuji Kataoka are typefaced.
+There are three different types of Kana and two different types of Hentai kana (the former style of kana) fonts.
 
 ## License
 
@@ -13,7 +14,7 @@ This Font Software is licensed under the SIL Open Font License, Version 1.1.
 
 ## Download the fonts (TTF)
 
-* [Latest release](https://github.com/Kinutafontfactory/Yuji/fonts/ttf)
+* [Latest release](https://github.com/Kinutafontfactory/Yuji/tree/master/fonts/ttf)
 
 ### Yuji “Shuku” (佑字【肅】)
 
