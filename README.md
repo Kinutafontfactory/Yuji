@@ -16,26 +16,21 @@ This Font Software is licensed under the SIL Open Font License, Version 1.1.
 
 * [Latest release](https://github.com/Kinutafontfactory/Yuji/tree/master/fonts/ttf)
 
-### Yuji “Shuku” (佑字【肅】)
+### Yuji “Syuku” (佑字【肅】)
 
-#### Font Format
-
-OpenType/TTF
+It has tradition and dignity, but is also approachable. This design can be widely accepted by the general public. Kanji characters and some symbols are the same as Mai and Boku.
 
 #### Character Coverage
 
  - Adobe Standard
-   - Adobe-Japan 1-3
+   - [Adobe-Japan 1-3](https://github.com/adobe-type-tools/Adobe-Japan1)
      - List of unaccommodated CID
          - 99-107, 109-121, 123-230, 323, 325, 423-502, 514, 599-632, 8009-8010, 8015, 8057, 8059-8060, 8091, 8102-8111, 8152-8153, 8155-8157, 8159-8164, 8166-8182, 8184-8185, 8187-8190, 8192-8196, 8205, 8210, 8215-8218, 8224, 8227-8228, 8230-8263, 8268-8269, 8271-8283, 8324-8326, 8718-8719, 8818-8826, 8828-8840, 8842-8949, 9042, 9044-9083, 9263-9264, 9275-9779, 12870
  - Default Glyph Style
    - JIS2004
+ - [GF Latin Core](https://github.com/googlefonts/gftools/tree/main/Lib/gftools/encodings/GF%20Glyph%20Sets#gf-latin-core)
 
 ### Yuji “Mai” (佑字【舞】)
-
-#### Font Format
-
-OpenType/TTF
 
 #### Character Coverage
 
@@ -45,10 +40,6 @@ OpenType/TTF
 
 ### Yuji “Boku” (佑字【朴】)
 
-#### Font Format
-
-OpenType/TTF
-
 #### Character Coverage
 
  - Supported character types
@@ -57,10 +48,6 @@ OpenType/TTF
 
 ### Yuji “Akari” (佑字【灯】)
 
-#### Font Format
-
-OpenType/TTF
-
 #### Character Coverage
 
  - Supported character types
@@ -68,10 +55,6 @@ OpenType/TTF
    - The Typeface of Hentaigana is recorded in the character code of Hiragana.
 
 ### Yuji “Akebono” (佑字【曙】)
-
-#### Font Format
-
-OpenType/TTF
 
 #### Character Coverage
 
