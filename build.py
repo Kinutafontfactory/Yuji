@@ -17,18 +17,12 @@ def DSIG_modification(font:TTFont):
     font["DSIG"].signatureRecords = []
     font["head"].flags |= 1 << 3        #sets flag to always round PPEM to integer
 
-def autohint(file):
-    print ("["+str(file).split("/")[2]+"] Autohinting")
-    subprocess.check_call(
-            [
-                "ttfautohint",
-                "--stem-width",
-                "nsn",
-                str(file),
-                str(file)[:-4]+"-hinted.ttf",
-            ]
-        )
-    shutil.move(str(file)[:-4]+"-hinted.ttf", str(file))
+def GASP_set(font:TTFont):
+    if "gasp" not in font:
+        font["gasp"] = newTable("gasp")
+        font["gasp"].gaspRange = {}
+    if font["gasp"].gaspRange != {65535: 0x000A}:
+        font["gasp"].gaspRange = {65535: 0x000A}
 
 
 def generate(source:Path, merge:Path) -> None:
@@ -58,8 +52,8 @@ def generate(source:Path, merge:Path) -> None:
     style_name = ufoSource.info.styleName
     print ("["+prefix+"-"+str(style_name)+"] Saving")
     output = "fonts/ttf/"+prefix+"-"+str(style_name)+".ttf"
+    GASP_set(static_ttf)
     static_ttf.save(output)
-    autohint(output)
 
 
 
