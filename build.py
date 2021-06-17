@@ -15,8 +15,7 @@ def DSIG_modification(font:TTFont):
     font["DSIG"].usFlag = 0
     font["DSIG"].usNumSigs = 0
     font["DSIG"].signatureRecords = []
-    font["head"].flags |= 1 << 3        #sets flag to always round PPEM to integer
-
+    
 def GASP_set(font:TTFont):
     if "gasp" not in font:
         font["gasp"] = newTable("gasp")
