@@ -38,6 +38,8 @@ def generate(source:Path, merge:Path) -> None:
     ufoSource.lib['com.github.googlei18n.ufo2ft.filters'] = [{ # extra safe :)
         "name": "flattenComponents",
         "pre": 1,
+        "name": "decomposeTransformedComponents",
+        "pre": 1,
     }]
 
     static_ttf = ufo2ft.compileTTF(
