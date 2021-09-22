@@ -38,6 +38,8 @@ def generate(source:Path, merge:Path) -> None:
     ufoSource.lib['com.github.googlei18n.ufo2ft.filters'] = [{ # extra safe :)
         "name": "flattenComponents",
         "pre": 1,
+    },
+    {
         "name": "decomposeTransformedComponents",
         "pre": 1,
     }]
@@ -96,6 +98,10 @@ if __name__ == "__main__":
             source = ufoLib2.Font.open(ufo)
             source.lib['com.github.googlei18n.ufo2ft.filters'] = [{
                 "name": "flattenComponents",
+                "pre": 1,
+            },
+            {
+                "name": "decomposeTransformedComponents",
                 "pre": 1,
             }]
             ufoLib2.Font.save(source)
